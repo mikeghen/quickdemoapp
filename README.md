@@ -1,2 +1,2 @@
-# quickdemoapp
-This is a quick demo app
+# Homework 1 Case Study
+Square and the Cash App
